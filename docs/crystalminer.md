@@ -1,5 +1,5 @@
 ---
-title: Crystal Miner
+description: Crystal Miner
 ---
 
 ## Crystal Miner
