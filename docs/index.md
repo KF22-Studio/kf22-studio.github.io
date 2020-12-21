@@ -12,4 +12,4 @@ A strategic puzzle mobile game for fun in between.
 
 ### [Hashr](/hashr.md)
 
-TBD
+An app for iOS and macOS that can generate secure, unique and theft-resistant passwords for every website without storing the passwords on a server or somewhere else.
