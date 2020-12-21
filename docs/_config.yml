@@ -1,10 +1,4 @@
 title: KF22 Studio
-author:
-  name: GitHub User
-  email: your-email@domain.com
 description: Apps made with 💙 in the heart of Berlin
 
-header_pages:
-  - legal.md
-
-theme: minima
+theme: jekyll-theme-primer
