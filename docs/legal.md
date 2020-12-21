@@ -1,6 +1,8 @@
-## Legal Notice
+---
+title: Legal Notice
+---
 
-**Responsible for content in accordance with §55 Abs. 2 RStV**
+### Responsible for content in accordance with §55 Abs. 2 RStV
 
 Dominic Radtke  
 Klara-Franke-Str. 22  

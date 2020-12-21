@@ -8,10 +8,10 @@ title: Hello
 
 ## Projects
 
-### [Crystal Miner](crystalminer.md)
+### [Crystal Miner](/crystalminer)
 
 A strategic puzzle mobile game for fun in between.
 
-### [Hashr](hashr.md)
+### [Hashr](/hashr)
 
 TBD
