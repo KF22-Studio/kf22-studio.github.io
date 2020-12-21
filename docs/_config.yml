@@ -1,8 +1,7 @@
-theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-minimal
 #show_downloads: false
 #title: KF22 Studio
 #description: Apps made with 💙 in the heart of Berlin
 #legal_page: /legal
 
-plugins:
-  - jekyll-remote-theme
+remote_theme: minimal-mistakes-jekyll
