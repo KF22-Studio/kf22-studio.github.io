@@ -1,10 +1,9 @@
----
-title: Crystal Miner
----
+## Crystal Miner
 
 A strategic puzzle mobile game for fun in between.
 
 ![Download App Store](/assets/img/app-store.svg){: .unavailable}
+(Coming soon!)
 
 ### Support
 
@@ -12,12 +11,12 @@ A strategic puzzle mobile game for fun in between.
 
 #### Release Notes
 
-...
+TBD
 
 #### Planned Features
 
-...
+TBD
 
 #### Credits
 
-...
+TBD
