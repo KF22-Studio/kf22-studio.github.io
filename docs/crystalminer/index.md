@@ -2,18 +2,22 @@
 
 A strategic puzzle mobile game for fun in between.
 
-## Support
+### 📲 Download
+
+![Download App Store](/assets/app-store.svg)
+
+### 📧 Support
 
 ...
 
-### Release Notes
+#### 📄Release Notes
 
 ...
 
-### Planned Features
+#### 🗓Planned Features
 
 ...
 
-### Credits
+#### 📝Credits
 
 ...

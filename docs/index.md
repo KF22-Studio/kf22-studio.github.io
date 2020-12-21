@@ -8,4 +8,6 @@ I'm Dominic, a professional software developer, from the heart of Berlin. In my 
 
 A strategic puzzle mobile game for fun in between.
 
-[Read more](/crystalminer/)
+### [Hashr](/hashr/)
+
+TBD
