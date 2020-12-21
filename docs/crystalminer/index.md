@@ -6,7 +6,7 @@ A strategic puzzle mobile game for fun in between.
 
 ### Support
 
-✉️ [support@kf22.studio](mailto:support@kf22.studio)
+✉️ [crystalminer@kf22.studio](mailto:crystalminer@kf22.studio)
 
 #### Release Notes
 
