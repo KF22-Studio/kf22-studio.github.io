@@ -2,7 +2,7 @@
 
 A strategic puzzle mobile game for fun in between.
 
-![Download App Store](/assets/img/app-store.svg){: .unavailable}
+![Download App Store](/assets/img/app-store.svg){: .unavailable}  
 (Coming soon!)
 
 ### Support
