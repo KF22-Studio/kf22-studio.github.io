@@ -6,7 +6,7 @@
 
 ## Projects
 
-### [Crystal Miner](/crystalminer.md)
+### [Crystal Miner](/crystalminer/index.md)
 
 A strategic puzzle mobile game for fun in between.
 
