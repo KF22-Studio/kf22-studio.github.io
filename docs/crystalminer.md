@@ -1,3 +1,7 @@
+---
+permalink: /crystalminer/
+---
+
 # Crystal Miner
 
 A strategic puzzle mobile game for fun in between.
