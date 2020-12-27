@@ -50,7 +50,7 @@
         {% if site.footer.navigation %}
         <p><small>
           {% for item in site.footer.navigation %}
-          <a href="{{ item.url }}">{{ item.title }}</a>{% if not forloop.last %} &mdash; {% endif %}
+          <a href="{{ item.url }}">{{ item.title }}</a>{% if forloop.last == false %} &mdash; {% endif %}
           {% endfor %}
         </small></p>
         {% endif %}
