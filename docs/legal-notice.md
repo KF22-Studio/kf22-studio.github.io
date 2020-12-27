@@ -8,7 +8,7 @@ permalink: /legal-notice/
 
 Dominic Radtke  
 Klara-Franke-Str. 22  
-10557 Berlin
+10557 Berlin  
 Germany
 
 ✉️ [hello@kf22.studio](mailto:hello@kf22.studio)
