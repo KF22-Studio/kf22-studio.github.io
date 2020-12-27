@@ -48,11 +48,11 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         {% if site.footer.navigation %}
-        <p>
+        <ul>
           {% for item in site.footer.navigation %}
-          <a href="{{ item.url }}">{{ item.title }}</a>
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
-        </p>
+        </ul>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
