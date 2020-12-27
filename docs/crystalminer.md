@@ -48,4 +48,4 @@ Some of the contained assets (purchased or free) are not self-made by KF22 Studi
 
 **Fonts**
 
-- Lalezar by [Borna Izadpanah](www.borna.design) ([Open Font License](http://scripts.sil.org/OFL))
+- Lalezar by [Borna Izadpanah](http://www.borna.design) ([Open Font License](http://scripts.sil.org/OFL))
