@@ -3,7 +3,12 @@ description: Apps made with 💙 in the heart of Berlin
 
 theme: jekyll-theme-minimal
 show_downloads: false
-#logo: /assets/img/berlin-outline.svg
+show_github_link: false
+
+footer:
+  navigation:
+    - title: Impressum
+      url: legal.md
 
 plugins:
   - jekyll-redirect-from
