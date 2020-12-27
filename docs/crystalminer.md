@@ -28,7 +28,7 @@ A strategic puzzle mobile game for fun in between.
 
 ## Credits
 
-This game was made with the awesome free and open source Godot Engine, [Licence](https://godotengine.org/license)
+This game was made with the awesome free and open source [Godot Engine](https://godotengine.org) ([Licence](https://godotengine.org/license))
 
 Some of the contained assets (purchased or free) are not self-made by KF22 Studio. The following lists the authors of these works and their license if provided.
 
