@@ -7,8 +7,10 @@ show_github_link: false
 
 footer:
   navigation:
-    - title: Impressum
-      url: legal.md
+    - title: Contact
+      url: mailto:hello@kf22.studio
+    - title: Legal Notice
+      url: /legal-notice/
 
 plugins:
   - jekyll-redirect-from
