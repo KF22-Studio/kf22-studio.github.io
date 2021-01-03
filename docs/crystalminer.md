@@ -20,12 +20,6 @@ Crystal Miner is the perfect game for in-between. For all those who like to puzz
 [Support](mailto:crystalminer@kf22.studio)  
 [Privacy Policy](/crystalminer-privacy-policy.md)
 
-## Release Notes
-
-### v1.0
-
-- Initial release
-
 ## Planned Features
 
 - Multiple levels and game scenes with different content
