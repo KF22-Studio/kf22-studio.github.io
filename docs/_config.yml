@@ -4,6 +4,7 @@ description: Apps made with 💙 in the heart of Berlin
 theme: jekyll-theme-minimal
 show_downloads: false
 show_github_link: false
+logo: /assets/img/logo.png
 
 footer:
   navigation:
